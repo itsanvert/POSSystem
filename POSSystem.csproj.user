@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Categories\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Categories\FrmDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Categories\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customers\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customers\FrmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customers\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmIntro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ImportDetails\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ImportDetails\FrmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ImportDetails\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Imports\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Imports\FrmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Imports\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Items\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Items\FrmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Items\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Suppliers\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Suppliers\FrmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Suppliers\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Users\FrmCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Users\FrmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Users\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DS\DsUsers.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
